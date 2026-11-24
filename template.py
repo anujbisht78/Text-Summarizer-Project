@@ -27,8 +27,8 @@ list_of_files = [
     "app.py",   # main application file
     "main.py",   # main entry point for the application
     "Dockerfile",   # Dockerfile for containerization 
-    "requirements.txt"   # file listing the project dependencies
-    "setup.py"   # setup file for packaging the project
+    "requirements.txt",   # file listing the project dependencies
+    "setup.py",  # setup file for packaging the project
     "research/trials.ipynb"   # Jupyter notebook for research and experimentation
 ]
 
